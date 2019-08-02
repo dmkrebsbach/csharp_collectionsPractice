@@ -1,0 +1,11 @@
+/home/dmkrebsbach/CodingDojo/CSharp/collectionsPractice/obj/Debug/netcoreapp2.2/collectionsPractice.csprojAssemblyReference.cache
+/home/dmkrebsbach/CodingDojo/CSharp/collectionsPractice/obj/Debug/netcoreapp2.2/collectionsPractice.csproj.CoreCompileInputs.cache
+/home/dmkrebsbach/CodingDojo/CSharp/collectionsPractice/obj/Debug/netcoreapp2.2/collectionsPractice.AssemblyInfoInputs.cache
+/home/dmkrebsbach/CodingDojo/CSharp/collectionsPractice/obj/Debug/netcoreapp2.2/collectionsPractice.AssemblyInfo.cs
+/home/dmkrebsbach/CodingDojo/CSharp/collectionsPractice/bin/Debug/netcoreapp2.2/collectionsPractice.deps.json
+/home/dmkrebsbach/CodingDojo/CSharp/collectionsPractice/bin/Debug/netcoreapp2.2/collectionsPractice.runtimeconfig.json
+/home/dmkrebsbach/CodingDojo/CSharp/collectionsPractice/bin/Debug/netcoreapp2.2/collectionsPractice.runtimeconfig.dev.json
+/home/dmkrebsbach/CodingDojo/CSharp/collectionsPractice/bin/Debug/netcoreapp2.2/collectionsPractice.dll
+/home/dmkrebsbach/CodingDojo/CSharp/collectionsPractice/bin/Debug/netcoreapp2.2/collectionsPractice.pdb
+/home/dmkrebsbach/CodingDojo/CSharp/collectionsPractice/obj/Debug/netcoreapp2.2/collectionsPractice.dll
+/home/dmkrebsbach/CodingDojo/CSharp/collectionsPractice/obj/Debug/netcoreapp2.2/collectionsPractice.pdb
